@@ -6,7 +6,7 @@ class DateTimeConfig {
     
     final dateFormat = DateFormat('y/M/d');
 
-    const timeSpecific = "05:49:00";
+    const timeSpecific = "11:00:00";
     final completeFormat = DateFormat('y/M/d H:m:s');
 
     final todayDate = dateFormat.format(now);
